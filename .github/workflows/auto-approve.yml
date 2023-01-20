@@ -8,3 +8,5 @@ jobs:
       pull-requests: write
     steps:
       - uses: hmarr/auto-approve-action@v3
+        with:
+            github-token: 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
